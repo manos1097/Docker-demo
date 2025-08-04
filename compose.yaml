@@ -1,0 +1,11 @@
+services:
+  node:
+    build: .
+    ports:
+      - "3000:3000"
+  mongo:
+    image: "mongo"
+  mongo-express:
+    image: "mongo-express"
+    ports:
+      - "8081:8081"
