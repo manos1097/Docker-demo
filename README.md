@@ -4,7 +4,7 @@ Demonstrates Github actions for Javascript Unit testing.
 #### August 5 2025
 Added Jest npm package to demonstate simple Javascript testing automation with Github actions.
 
-### Prerequesits
+### Prerequisites
 A linux host with Docker Desktop or Docker Engine + Docker Compose addon installed
 
 Docker Engine installtion instructions for Ubuntu
