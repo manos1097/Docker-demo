@@ -1,15 +1,17 @@
 This project contains a simple Nodejs with Expressjs app to demonstrate the use of Docker compose.
+Demonstrates Github actions for Javascript Unit testing.
 
-## Prerequesits
+#### August 5 2025
+Added Jest npm package to demonstate simple Javascript testing automation with Github actions.
+
+### Prerequesits
 A linux host with Docker Desktop or Docker Engine + Docker Compose addon installed
 
 Docker Engine installtion instructions for Ubuntu
 
 [Docker installation](https://docs.docker.com/engine/install/ubuntu/)
 
-
-
-## How to use
+### How to use
 1. Download files to local machine
 2. Open terminal and cd to project folder
 3. docker compose up
