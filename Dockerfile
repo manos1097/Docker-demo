@@ -1,6 +1,6 @@
 FROM node:lts-jod
 
-COPY package.json .
+COPY package*.json ./
 
 COPY /src .
 
